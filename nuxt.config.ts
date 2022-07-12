@@ -23,6 +23,7 @@ export default defineNuxtConfig({
         viewer: true,
     },
     app: {
+        baseURL: process.env.NODE_ENV === 'production' ? './' : '/',
         buildAssetsDir: process.env.NODE_ENV === 'production' ? '/static/' : '/_nuxt/'
     }
 })
