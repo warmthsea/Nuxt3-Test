@@ -1,0 +1,1 @@
+import{_ as t,o,c as s,d as e}from"./entry-8025d678.mjs";const c={},_={class:"text-center bg-gray-200 text-xl"},a=e("div",{class:"wrapper p-8"}," default layout footer ",-1),r=e("div",{class:"p-4 bg-gray-300"}," CopyRight \xA9 1900-2022 xxxxxx \u56FDICP\u590700000000\u53F7-1 ",-1),n=[a,r];function x(d,i){return o(),s("div",_,n)}var l=t(c,[["render",x]]);export{l as _};

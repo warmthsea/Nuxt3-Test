@@ -1,0 +1,95 @@
+{
+  "node_modules/nuxt/dist/app/entry.mjs": {
+    "file": "entry-8025d678.mjs",
+    "src": "node_modules/nuxt/dist/app/entry.mjs",
+    "isEntry": true,
+    "dynamicImports": [
+      "pages/detail/child.vue",
+      "pages/detail/index.vue",
+      "pages/detail.vue",
+      "pages/index.vue",
+      "pages/user-[one]/user-[two].vue",
+      "pages/user.vue",
+      "layouts/custom.vue",
+      "layouts/default.vue"
+    ],
+    "css": [
+      "entry.963d7f54.css"
+    ]
+  },
+  "pages/detail/child.vue": {
+    "file": "child-2f90d2e4.mjs",
+    "src": "pages/detail/child.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "node_modules/nuxt/dist/app/entry.mjs"
+    ]
+  },
+  "pages/detail/index.vue": {
+    "file": "index-a26f1edc.mjs",
+    "src": "pages/detail/index.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "node_modules/nuxt/dist/app/entry.mjs"
+    ]
+  },
+  "pages/detail.vue": {
+    "file": "detail-05de87c3.mjs",
+    "src": "pages/detail.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "node_modules/nuxt/dist/app/entry.mjs"
+    ]
+  },
+  "pages/index.vue": {
+    "file": "index-5c04ee9e.mjs",
+    "src": "pages/index.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "node_modules/nuxt/dist/app/entry.mjs"
+    ]
+  },
+  "pages/user-[one]/user-[two].vue": {
+    "file": "user-_two_-f61f7aa7.mjs",
+    "src": "pages/user-[one]/user-[two].vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "node_modules/nuxt/dist/app/entry.mjs"
+    ]
+  },
+  "pages/user.vue": {
+    "file": "user-8d0816ff.mjs",
+    "src": "pages/user.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "node_modules/nuxt/dist/app/entry.mjs"
+    ]
+  },
+  "layouts/custom.vue": {
+    "file": "custom-cf0fab5f.mjs",
+    "src": "layouts/custom.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "node_modules/nuxt/dist/app/entry.mjs",
+      "_TheFooter-10e247e8.mjs"
+    ]
+  },
+  "_TheFooter-10e247e8.mjs": {
+    "file": "TheFooter-10e247e8.mjs",
+    "imports": [
+      "node_modules/nuxt/dist/app/entry.mjs"
+    ]
+  },
+  "layouts/default.vue": {
+    "file": "default-0c5b55c8.mjs",
+    "src": "layouts/default.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "node_modules/nuxt/dist/app/entry.mjs",
+      "_TheFooter-10e247e8.mjs"
+    ],
+    "css": [
+      "default.81356115.css"
+    ]
+  }
+}

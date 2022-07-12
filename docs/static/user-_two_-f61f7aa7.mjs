@@ -1,0 +1,1 @@
+import{_ as a,o as r,c as t,d as s,t as o}from"./entry-8025d678.mjs";const n={layout:"custom"};function c(e,u,p,l,_,d){return r(),t("div",null,[s("div",null," user one : "+o(e.$route.params.one)+" "+o(e.$route.params.two),1)])}var m=a(n,[["render",c]]);export{m as default};

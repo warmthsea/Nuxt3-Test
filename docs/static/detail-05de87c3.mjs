@@ -1,0 +1,1 @@
+import{_ as t,r as o,o as a,c,a as n,b as r}from"./entry-8025d678.mjs";const s={},_=r(" detail page ");function d(l,i){const e=o("NuxtChild");return a(),c("div",null,[_,n(e)])}var f=t(s,[["render",d]]);export{f as default};
