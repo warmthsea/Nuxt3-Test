@@ -32,6 +32,9 @@ Build the application for production:
 ```bash
 npm run build
 ```
+![image](https://user-images.githubusercontent.com/45450994/178443584-7f2de83f-530f-405b-91fc-fe47701e4d93.png)
+
+
 
 Locally preview production build:
 
