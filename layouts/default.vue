@@ -1,7 +1,7 @@
 <template>
     <div class="flex flex-col">
         <TheHeader />
-        <div class="flex-1 wrapper bg-gray-100 p-3">
+        <div class="flex-grow wrapper">
             <slot />
         </div>
         <TheFooter />
